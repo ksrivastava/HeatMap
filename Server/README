@@ -1,0 +1,10 @@
+HEATMAP TOOL SERVER
+
+Usage
+------
+
+1. Install either MongoDB or MySQL on server.
+2. Place crossdomain.xml at root
+3. Place heatmap.php somewhere under root
+
+

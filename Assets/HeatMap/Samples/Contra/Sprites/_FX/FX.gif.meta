@@ -1,0 +1,1511 @@
+fileFormatVersion: 2
+guid: c949c7a00d03a42659920db49443034c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FX
+    21300002: FX_0
+    21300004: FX_1
+    21300006: FX_2
+    21300008: FX_3
+    21300010: FX_4
+    21300012: FX_5
+    21300014: FX_6
+    21300016: FX_7
+    21300018: FX_8
+    21300020: FX_9
+    21300022: FX_10
+    21300024: FX_11
+    21300026: FX_12
+    21300028: FX_13
+    21300030: FX_14
+    21300032: FX_15
+    21300034: FX_16
+    21300036: FX_17
+    21300038: FX_18
+    21300040: FX_19
+    21300042: FX_20
+    21300044: FX_21
+    21300046: FX_22
+    21300048: FX_23
+    21300050: FX_24
+    21300052: FX_25
+    21300054: FX_26
+    21300056: FX_27
+    21300058: FX_28
+    21300060: FX_29
+    21300062: FX_30
+    21300064: FX_31
+    21300066: FX_32
+    21300068: FX_33
+    21300070: FX_34
+    21300072: FX_35
+    21300074: FX_36
+    21300076: FX_37
+    21300078: FX_38
+    21300080: FX_39
+    21300082: FX_40
+    21300084: FX_41
+    21300086: FX_42
+    21300088: FX_43
+    21300090: FX_44
+    21300092: FX_45
+    21300094: FX_46
+    21300096: FX_47
+    21300098: FX_48
+    21300100: FX_49
+    21300102: FX_50
+    21300104: FX_51
+    21300106: FX_52
+    21300108: FX_53
+    21300110: FX_54
+    21300112: FX_55
+    21300114: FX_56
+    21300116: FX_57
+    21300118: FX_58
+    21300120: FX_59
+    21300122: FX_60
+    21300124: FX_61
+    21300126: FX_62
+    21300128: FX_63
+    21300130: FX_64
+    21300132: FX_65
+    21300134: FX_66
+    21300136: FX_67
+    21300138: FX_68
+    21300140: FX_69
+    21300142: FX_70
+    21300144: FX_71
+    21300146: FX_72
+    21300148: FX_73
+    21300150: FX_74
+    21300152: FX_75
+    21300154: FX_76
+    21300156: FX_77
+    21300158: FX_78
+    21300160: FX_79
+    21300162: FX_80
+    21300164: FX_81
+    21300166: FX_82
+    21300168: FX_83
+    21300170: FX_84
+    21300172: FX_85
+    21300174: FX_86
+    21300176: FX_87
+    21300178: FX_88
+    21300180: FX_89
+    21300182: FX_90
+    21300184: FX_91
+    21300186: FX_92
+    21300188: FX_93
+    21300190: FX_94
+    21300192: FX_95
+    21300194: FX_96
+    21300196: FX_97
+    21300198: FX_98
+    21300200: FX_99
+    21300202: FX_100
+    21300204: FX_101
+    21300206: FX_102
+    21300208: FX_103
+    21300210: FX_104
+    21300212: FX_105
+    21300214: FX_106
+    21300216: FX_107
+    21300218: FX_108
+    21300220: FX_109
+    21300222: FX_110
+    21300224: FX_111
+    21300226: FX_112
+    21300228: FX_113
+    21300230: FX_114
+    21300232: FX_115
+    21300234: FX_116
+    21300236: FX_117
+    21300238: FX_118
+    21300240: FX_119
+    21300242: FX_120
+    21300244: FX_121
+    21300246: FX_122
+    21300248: FX_123
+    21300250: FX_124
+    21300252: FX_125
+    21300254: FX_126
+    21300256: FX_127
+    21300258: FX_128
+    21300260: FX_129
+    21300262: FX_130
+    21300264: FX_131
+    21300266: FX_132
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FX_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 611
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 611
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 611
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 611
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 611
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 611
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_6
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 611
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_7
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 611
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 611
+        width: 30
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 611
+        width: 30
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 611
+        width: 30
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 591
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 553
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 545
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_23
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 537
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 529
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 521
+        width: 15
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 503
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 503
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 503
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 503
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_30
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 503
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 503
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_32
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 503
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_33
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 468
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_34
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 468
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_35
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_36
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 468
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 468
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 468
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 440
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_41
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 440
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 422
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_43
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 422
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 422
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_45
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 422
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 422
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_47
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 412
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 412
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 412
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_50
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 412
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_51
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 412
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_52
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 298
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_54
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 402
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_55
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 297
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 298
+        width: 16
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_57
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 298
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 298
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 298
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 298
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 298
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_62
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 298
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_64
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 298
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 298
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_66
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 280
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_67
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_68
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_70
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_71
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 276
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_72
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 263
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 258
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 246
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 259
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 245
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 246
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_84
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 246
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_85
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 242
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 227
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 208
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_90
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_91
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 226
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_92
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 226
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 224
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_94
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 209
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 208
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 208
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 208
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 207
+        width: 87
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_99
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 192
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 195
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 190
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_103
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 175
+        width: 88
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 172
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_107
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 157
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_108
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_109
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 159
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_111
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 154
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 149
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_114
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 149
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_115
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 123
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_118
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 126
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_119
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_120
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 119
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_121
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 93
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_122
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 77
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_123
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 69
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_124
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 61
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_125
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 53
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_126
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 45
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_127
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 37
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_128
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 29
+        width: 16
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_129
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 21
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 13
+        width: 16
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_131
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 16
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FX_132
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 102
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

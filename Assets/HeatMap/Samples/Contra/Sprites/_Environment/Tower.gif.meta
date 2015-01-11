@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 0e31fc250e42f478c9834da29459b2bd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Tower
+    21300002: Tower_0
+    21300004: Tower_1
+    21300006: Tower_2
+    21300008: Tower_3
+    21300010: Tower_4
+    21300012: Tower_5
+    21300014: Tower_6
+    21300016: Tower_7
+    21300018: Tower_8
+    21300020: Tower_9
+    21300022: Tower_10
+    21300024: Tower_11
+    21300026: Tower_12
+    21300028: Tower_13
+    21300030: Tower_14
+    21300032: Tower_15
+    21300034: Tower_16
+    21300036: Tower_17
+    21300038: Tower_18
+    21300040: Tower_19
+    21300042: Tower_20
+    21300044: Tower_21
+    21300046: Tower_22
+    21300048: Tower_23
+    21300050: Tower_24
+    21300052: Tower_25
+    21300054: Tower_26
+    21300056: Tower_27
+    21300058: Tower_28
+    21300060: Tower_29
+    21300062: Tower_30
+    21300064: Tower_31
+    21300066: Tower_32
+    21300068: Tower_33
+    21300070: Tower_34
+    21300072: Tower_35
+    21300074: Tower_36
+    21300076: Tower_37
+    21300078: Tower_38
+    21300080: Tower_39
+    21300082: Tower_40
+    21300084: Tower_41
+    21300086: Tower_42
+    21300088: Tower_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Tower_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1202
+        width: 114
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1166
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1166
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1166
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1166
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1138
+        width: 156
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1086
+        width: 136
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 909
+        width: 131
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 875
+        width: 108
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 806
+        width: 248
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_10
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 738
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_11
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 670
+        width: 249
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_12
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 647
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 647
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 568
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_15
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 568
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_16
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 504
+        width: 54
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 504
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_18
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 504
+        width: 55
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 568
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 568
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 504
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 504
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 504
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_24
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 504
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 438
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 438
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 425
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_29
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 438
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_30
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 438
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 438
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_32
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 389
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_33
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 389
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_34
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 389
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_35
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 344
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 344
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_37
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 343
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 301
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_39
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 301
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_40
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 151
+        width: 91
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 151
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3
+        width: 91
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tower_43
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3
+        width: 90
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

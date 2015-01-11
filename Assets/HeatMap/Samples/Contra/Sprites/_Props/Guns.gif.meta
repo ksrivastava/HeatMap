@@ -1,0 +1,1346 @@
+fileFormatVersion: 2
+guid: 1ee3f29691af14eef946c71bbaa782f3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Guns
+    21300002: Guns_0
+    21300004: Guns_1
+    21300006: Guns_2
+    21300008: Guns_3
+    21300010: Guns_4
+    21300012: Guns_5
+    21300014: Guns_6
+    21300016: Guns_7
+    21300018: Guns_8
+    21300020: Guns_9
+    21300022: Guns_10
+    21300024: Guns_11
+    21300026: Guns_12
+    21300028: Guns_13
+    21300030: Guns_14
+    21300032: Guns_15
+    21300034: Guns_16
+    21300036: Guns_17
+    21300038: Guns_18
+    21300040: Guns_19
+    21300042: Guns_20
+    21300044: Guns_21
+    21300046: Guns_22
+    21300048: Guns_23
+    21300050: Guns_24
+    21300052: Guns_25
+    21300054: Guns_26
+    21300056: Guns_27
+    21300058: Guns_28
+    21300060: Guns_29
+    21300062: Guns_30
+    21300064: Guns_31
+    21300066: Guns_32
+    21300068: Guns_33
+    21300070: Guns_34
+    21300072: Guns_35
+    21300074: Guns_36
+    21300076: Guns_37
+    21300078: Guns_38
+    21300080: Guns_39
+    21300082: Guns_40
+    21300084: Guns_41
+    21300086: Guns_42
+    21300088: Guns_43
+    21300090: Guns_44
+    21300092: Guns_45
+    21300094: Guns_46
+    21300096: Guns_47
+    21300098: Guns_48
+    21300100: Guns_49
+    21300102: Guns_50
+    21300104: Guns_51
+    21300106: Guns_52
+    21300108: Guns_53
+    21300110: Guns_54
+    21300112: Guns_55
+    21300114: Guns_56
+    21300116: Guns_57
+    21300118: Guns_58
+    21300120: Guns_59
+    21300122: Guns_60
+    21300124: Guns_61
+    21300126: Guns_62
+    21300128: Guns_63
+    21300130: Guns_64
+    21300132: Guns_65
+    21300134: Guns_66
+    21300136: Guns_67
+    21300138: Guns_68
+    21300140: Guns_69
+    21300142: Guns_70
+    21300144: Guns_71
+    21300146: Guns_72
+    21300148: Guns_73
+    21300150: Guns_74
+    21300152: Guns_75
+    21300154: Guns_76
+    21300156: Guns_77
+    21300158: Guns_78
+    21300160: Guns_79
+    21300162: Guns_80
+    21300164: Guns_81
+    21300166: Guns_82
+    21300168: Guns_83
+    21300170: Guns_84
+    21300172: Guns_85
+    21300174: Guns_86
+    21300176: Guns_87
+    21300178: Guns_88
+    21300180: Guns_89
+    21300182: Guns_90
+    21300184: Guns_91
+    21300186: Guns_92
+    21300188: Guns_93
+    21300190: Guns_94
+    21300192: Guns_95
+    21300194: Guns_96
+    21300196: Guns_97
+    21300198: Guns_98
+    21300200: Guns_99
+    21300202: Guns_100
+    21300204: Guns_101
+    21300206: Guns_102
+    21300208: Guns_103
+    21300210: Guns_104
+    21300212: Guns_105
+    21300214: Guns_106
+    21300216: Guns_107
+    21300218: Guns_108
+    21300220: Guns_109
+    21300222: Guns_110
+    21300224: Guns_111
+    21300226: Guns_112
+    21300228: Guns_113
+    21300230: Guns_114
+    21300232: Guns_115
+    21300234: Guns_116
+    21300236: Guns_117
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Guns_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 436
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_12
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 402
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_20
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_21
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 368
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_26
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_28
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_29
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_30
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_32
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_36
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 300
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_42
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_45
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_46
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_47
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 266
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 232
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_50
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 232
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_51
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_52
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_53
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_54
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 198
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_55
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 198
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_56
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_58
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 198
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_59
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 164
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_62
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_65
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_67
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_68
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_69
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_70
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_73
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_74
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_75
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_78
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_79
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_81
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_82
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_83
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_84
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_85
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_86
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_88
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_89
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_90
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_91
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_92
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_95
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_98
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_100
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_102
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_103
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_104
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_105
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_108
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 23
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_109
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_110
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_112
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_114
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_115
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_116
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Guns_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 4
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
